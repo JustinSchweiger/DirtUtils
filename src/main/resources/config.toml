@@ -1,0 +1,7 @@
+# Configuration file for Dirt-Utils
+
+[general]
+# Wether debug-messages should be printed to the console
+debug = true
+# Wether debug-messages should be colored in the console
+coloredDebug = true

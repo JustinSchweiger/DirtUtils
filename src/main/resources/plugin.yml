@@ -1,0 +1,12 @@
+name: DirtUtils
+version: '${version}'
+main: net.dirtcraft.plugins.dirtutils.DirtUtils
+api-version: 1.16
+prefix: DirtUtils
+authors: [ DeJustinHD ]
+description: Adds some useful features/commands for DirtCraft 1.16+ Servers
+commands:
+    printallitems:
+        description: Prints all of the items in the game to a file in the plugins folder
+    f:
+        description: Pay respect
